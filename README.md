@@ -15,30 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola a todos! Mi nombre es Martín Gil Blanco 👋
 📖 Estudios:
-Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022. Nota: 8:03.
-Máster en Ingeniería Informática MEI Universidad de Vigo 2022-2024. Nota: 8:76.
-Máster de Educación Universidad Católica de Ávila 2022-2023.
-Profesor de Sistemas y Aplicaciones Informáticas de la Xunta de Galicia.
-Cursando actualmente:
-Máster en Ciberseguridad Universidad Isabel I 2025/2026.
-FP de Desarrollo de aplicaciones Web a Distancia 2020/2025.
+* Graduado en Ingeniería de telecomunicación por la Universidad de Vigo
+* Máster interuniversitario en Ingeniería de Telecomunicación por la UOC - La Salle URL
+* Máster de Educación por la Universidad de Vigo.
+
+ 🔭 Actualmente trabajo como profesor de Educación Secundaria en la especialidad de Sistemas y Aplicaciones Informáticas para la Consellería de Educación de la Xunta de Galicia ...
+  
 ⚙️ Certificaciones
-LPIC-1
+* Cisco CCNA
+* Cisco CCNP ENCOR
+* MCSA de Microsoft
+
 💻 Lenguajes y Herramientas que utilizo:
-HTML5 CSS3 JavaScript React
-
-PHP JAVA Spring
-
-SQL MySQL MySQL Workbench
-
-Git GitHub Markdown
-
-Ansible Linux Docker
-
-💬 Noticias:
-Entrevista Voz de Galicia
+* CLI IOS de Cisco
+* Git GitHub Markdown
+* Ansible Linux Docker
 
 🌐 Contacto!:
 LinkedIn
