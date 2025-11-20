@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📖 Estudios:
 * Graduado en Ingeniería de telecomunicación por la Universidad de Vigo
-* Máster interuniversitario en Ingeniería de Telecomunicación por la UOC - La Salle URL
+* Máster interuniversitario en Ingeniería de Telecomunicación por la UOC - La Salle Universidad ramon LLull
 * Máster de Educación por la Universidad de Vigo.
 
  🔭 Actualmente trabajo como profesor de Educación Secundaria en la especialidad de Sistemas y Aplicaciones Informáticas para la Consellería de Educación de la Xunta de Galicia ...
